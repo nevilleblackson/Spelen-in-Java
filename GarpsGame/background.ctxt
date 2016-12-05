@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=background
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=background()
+comment2.params=
+comment2.target=void\ populateTheWorld()
+comment3.params=
+comment3.target=void\ started()
+comment4.params=
+comment4.target=void\ stopped()
+numComments=5
